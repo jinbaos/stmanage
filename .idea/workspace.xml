@@ -2,191 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc52601-2e66-400c-baa6-d4878803e702" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_65.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_65.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_65.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_15_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_15_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/StmanageApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/api/BaseApiService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/api/BaseResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/api/constants/ApiConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/controller/ActivityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/controller/NoticesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/controller/PaylogsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/controller/TeamsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/controller/TypesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/controller/UsersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/entity/Applyactivitys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/entity/Notices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/entity/Paylogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/entity/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/entity/TeamTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/entity/Teams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/entity/TemplateId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/entity/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/mapper/ActivityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/mapper/IndexMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/mapper/NoticesMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/mapper/PaylogsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/mapper/TeamsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/mapper/TypesMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/ActivityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/IndexService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/NoticesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/PaylogsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/TeamsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/TypesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/UsersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/impl/ActivityServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/impl/IndexServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/impl/NoticesServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/impl/PaylogsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/impl/TeamsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/impl/TypesServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stmanage/service/impl/UsersServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stmanage/StmanageApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stmanage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/stmanage.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/StmanageApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/api/BaseApiService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/api/BaseResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/api/constants/ApiConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/controller/ActivityController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/controller/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/controller/NoticesController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/controller/PaylogsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/controller/TeamsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/controller/TypesController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/controller/UsersController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/entity/Applyactivitys.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/entity/Notices.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/entity/Paylogs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/entity/Payment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/entity/TeamTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/entity/Teams.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/entity/TemplateId.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/entity/Users.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/mapper/ActivityMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/mapper/IndexMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/mapper/NoticesMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/mapper/PaylogsMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/mapper/TeamsMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/mapper/TypesMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/mapper/UsersMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/ActivityService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/IndexService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/NoticesService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/PaylogsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/TeamsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/TypesService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/UsersService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/impl/ActivityServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/impl/IndexServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/impl/NoticesServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/impl/PaylogsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/impl/TeamsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/impl/TypesServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/stmanage/service/impl/UsersServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/stmanage/StmanageApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -329,18 +145,34 @@
       <workItem from="1668256497480" duration="69000" />
       <workItem from="1668264290762" duration="834000" />
       <workItem from="1668328581185" duration="96000" />
-      <workItem from="1668329893740" duration="2444000" />
+      <workItem from="1668329893740" duration="2813000" />
     </task>
+    <task id="LOCAL-00001" summary="springboot+vue校园社团管理系统">
+      <created>1668332530686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668332530686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springboot+vue校园社团管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="springboot+vue校园社团管理系统" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1668242017330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1668242017330" />
+    <state x="268" y="9" key="CommitChangelistDialog2" timestamp="1668332526354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="268" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1668332526354" />
     <state x="457" y="200" key="FileChooserDialogImpl" timestamp="1668332281927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -401,10 +233,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1668332189131" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1668330885432">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1668332700127">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1668330885432" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1668332700127" />
     <state x="178" y="58" key="new project wizard" timestamp="1667481984375">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
